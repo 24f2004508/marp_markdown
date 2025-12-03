@@ -42,6 +42,16 @@ Let’s analyze the time complexity:
 \[
 T(n) = O(n \log n)
 \]
+The time complexity of merge sort is:
+
+$$
+T(n) = O(n \log n)
+$$
+
+And for linear search:
+
+Inline: $T(n) = O(n)$
+
 
 ---
 
