@@ -42,6 +42,7 @@ Let’s analyze the time complexity:
 \[
 T(n) = O(n \log n)
 \]
+
 The time complexity of merge sort is:
 
 $$
